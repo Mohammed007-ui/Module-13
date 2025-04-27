@@ -50,11 +50,12 @@ TowerOfHanoi(n, 'A', 'C', 'B')
 ```
 
 ### OUTPUT
+```
 ![image](https://github.com/user-attachments/assets/41bf71b6-8f86-473d-b05f-555384e86872)
-
+```
 
 ### RESULT
+```
 Thus, the program for solving the Tower of Hanoi problem using recursion was successfully written and executed, displaying all moves correctly.
-
-
+```
 
